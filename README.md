@@ -1,4 +1,5 @@
-# Teaching quantum computing to high-school-aged youth: A hands-on approach
+# Teaching quantum computing to high-school-aged youth
+### A hands-on approach
 
 
 This repository contains some sample documents that have been used in delivering quantum computing workshops for high-school students. There are three different kinds of workshops offered: motivational, introductory, and advanced. Each of these workshops contains three different kinds of material as follows:
